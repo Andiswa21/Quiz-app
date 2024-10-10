@@ -1,0 +1,11 @@
+/* App.css */
+
+body {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+.app-title {
+  color: #0c0c0c;
+  margin-top: 2rem;
+}
